@@ -1,0 +1,35 @@
+### PyCharm ###
+.idea/
+out/
+.idea_modules/
+
+### Python ###
+__pycache__/
+*$py.class
+
+# Distribution / packaging
+.Python
+build/
+dist/
+downloads/
+MANIFEST
+
+# PyInstaller
+*.manifest
+*.spec
+
+# PyBuilder
+.pybuilder/
+target/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+### VisualStudioCode ###
+.vscode/*
